@@ -4,7 +4,7 @@ const books = [
     title: "Harry Potter",
     pubDate: "2023-08-05",
     language: "en",
-    numPage: "260",
+    numPage: 260,
     author: [1, 2],
     publication: [1],
     category: ["mystery", "magic"]

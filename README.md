@@ -24,5 +24,4 @@
 <h4>📈 User-Focused Design:</h4>
 📔 <i>Booky prioritizes an intuitive interface, ensuring an enhanced user experience for efficient book management.</i><br>
 
-<h4>🚀 Future-Ready:</h4>
-📔 <i>Booky, with its foundation in JavaScript and <span style="font-weight: bold;">Mongoose</span>, remains at the forefront of book management solutions, poised for future developments.</i>
+
